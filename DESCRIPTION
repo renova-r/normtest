@@ -1,10 +1,13 @@
 Package: normtest
-Version: 1.1
-Date: 2014-03-13
+Version: 1.1.9001
 Title: Tests for Normality
-Author: Ilya Gavrilov, Ruslan Pusev
+Author: Ilya Gavrilov [aut], Ruslan Pusev [aut, cre]
+Authors@R: c(person(given = "Ilya", family = "Gavrilov", role = "aut"),
+             person(given = "Ruslan", family = "Pusev", role = c("aut", "cre"),
+                    email = "r.pusev@spbu.ru"))
 Maintainer: Ruslan Pusev <r.pusev@spbu.ru>
-Description: Tests for the composite hypothesis of normality
+Description: Tests for the composite hypothesis of normality.
+    Compatibility updates by Renova.
 License: GPL (>= 3)
 Packaged: 2014-03-12 21:47:13 UTC; Ruslan
 NeedsCompilation: no

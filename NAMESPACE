@@ -3,3 +3,7 @@
 
 # Export all names
 exportPattern(".")
+importFrom(stats,pnorm)
+importFrom(stats,qnorm)
+importFrom(stats,rnorm)
+importFrom(stats,var)
